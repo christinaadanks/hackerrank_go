@@ -1,6 +1,6 @@
 package main
 /**
-@author christinaadanks
+@author christinaathecoder
 @version 1/11/2022
  */
 import "fmt"
